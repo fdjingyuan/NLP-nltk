@@ -1,0 +1,5 @@
+fuzzy 53
+hello 10
+a 3
+b 4
+c 5
