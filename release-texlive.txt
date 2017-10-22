@@ -1,0 +1,1 @@
+TeX Live (http://tug.org/texlive) version 2016\n\nThis file is public domain.  It is read by install-tl --version,\ntlmgr --version, and texconfig conf, and a final line appended with\nthe precise version number by tl-update-images during a build.\n\nThe following blank line helps avoid confusing output when\nused directly from svn, so don't delete it.
